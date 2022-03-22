@@ -1,0 +1,31 @@
+
+.image-section-container{
+    padding: 16px;
+    display: flex;
+    
+    border-bottom: 1px rgb(201, 58, 58) solid;
+    flex-direction: row;
+}
+
+.leftColumn{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+.rightColumn{
+    display: flex;
+
+
+}
+.sectionHeading{
+
+    font-family: 'Playfair Display', serif;
+    font-size: 17px;
+    color: #6d6875;
+}
+
+.image{
+    width: 100%;
+    height: 100%;
+}
