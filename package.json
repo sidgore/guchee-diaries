@@ -1,6 +1,5 @@
 {
   "name": "gucheediaries",
-  "homepage": "https://sidgore.github.io/guchee-diaries",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
