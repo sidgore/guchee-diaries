@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/guchee-diaries/static/css/main.9415c26f.css",
+    "main.js": "/guchee-diaries/static/js/main.9160b9af.js",
+    "static/js/787.6947a771.chunk.js": "/guchee-diaries/static/js/787.6947a771.chunk.js",
+    "static/media/nainital_01.png": "/guchee-diaries/static/media/nainital_01.9069330e4a8a8eb57c44.png",
+    "index.html": "/guchee-diaries/index.html",
+    "main.9415c26f.css.map": "/guchee-diaries/static/css/main.9415c26f.css.map",
+    "main.9160b9af.js.map": "/guchee-diaries/static/js/main.9160b9af.js.map",
+    "787.6947a771.chunk.js.map": "/guchee-diaries/static/js/787.6947a771.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9415c26f.css",
+    "static/js/main.9160b9af.js"
+  ]
+}
