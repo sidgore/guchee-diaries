@@ -7,7 +7,7 @@ import './Places.scss'
 
 export default function Places() {
     return (
-        <main style={{ padding: "55px 0 0 0", margin: 'auto' }}>
+        <main style={{ padding: "55px 0 0 0", margin: 'auto',backgroundColor:'lightgoldenrodyellow' }}>
 
             <div className='banner-image-container'>
                 <h1>NAINITAL</h1>

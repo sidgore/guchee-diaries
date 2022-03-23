@@ -20,7 +20,7 @@ function App() {
       <nav className='navbar-outer'>
 
         <div className="navbar-inner" >
-          <a href="#home" className="navbar-item">Guchee Diaries</a>
+          <a href="#home" className="navbar-item heading">Guchee Diaries</a>
           <div className="w3-right w3-hide-small">
 
             <Link className="navbar-item" to="/places">About Us</Link>
